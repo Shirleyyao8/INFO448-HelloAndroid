@@ -144,4 +144,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
+Another developer option I explored is the drawing one. Here is the research I have done on this feature: Drawing options provide visual cues about the app's user interface and how it operates. It enables Show Layout Bounds to show our app's clip bounds, margins, and other user interface constructions on the device. I will definitely use this feature to help me develop apps this quarter because I think visualizing the interface is the most direct way for me to see if I set up certain features on my app right. I am a visual learner and developer so this drawing feature will certainly help me when developing or debugging.
+
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
